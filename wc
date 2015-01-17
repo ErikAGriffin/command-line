@@ -1,0 +1,2 @@
+Wordcount. wc <file>
+Gives the number of lines, words, and characters in a file.

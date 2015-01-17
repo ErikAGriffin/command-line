@@ -1,0 +1,2 @@
+Grep. A search command.
+grep <textInFile> <whichFile>
