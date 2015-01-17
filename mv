@@ -1,0 +1,2 @@
+The move command.  mv <src> <destination>
+Moves designated src file to destination path.  File does not have to retain its original name, and can thus be renamed this way.
